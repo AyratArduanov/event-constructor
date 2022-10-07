@@ -1,2 +1,4 @@
-package ru.intruder.event.constructor.repository;public class EventConstructorRepository {
+package ru.intruder.event.constructor.repository;
+
+public interface EventConstructorRepository {
 }

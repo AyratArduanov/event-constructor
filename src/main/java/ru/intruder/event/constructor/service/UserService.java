@@ -1,2 +1,4 @@
-package ru.intruder.event.constructor.service;public class UserService {
+package ru.intruder.event.constructor.service;
+
+public class UserService {
 }
